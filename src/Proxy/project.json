@@ -1,7 +1,7 @@
 ﻿{
-  "version": "1.0.0-*",
-  "description": "Proxy Console Application",
-  "authors": [ "jerus" ],
+  "version": "0.0.1-0",
+  "description": "Proxy Application",
+  "authors": [ "ping" ],
   "tags": [ "" ],
   "projectUrl": "",
   "licenseUrl": "",
